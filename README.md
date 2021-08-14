@@ -14,6 +14,8 @@
 
 `BEP20` (implementation of IBEP20)
 
+`CakeToken` (inheritance with BEP20)
+
 
 ## Solidity keywords understanding
 `internal` (only contract and its derived contract can be used)
